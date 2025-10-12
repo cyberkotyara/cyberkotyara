@@ -24,7 +24,7 @@ I am a cybersecurity enthusiast 👨🏻‍💻, currently pursuing a master's d
 <details>	
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Kali Linux</li>
+  	    <li><b>OS:</b> Windows 10, Kali Linux</li>
 	    <li><b>Laptop:</b> HP Probook</li>
 		<li><b>Browser:</b> Firefox</li>
 	    <li><b>Terminal:</b> ZSH</li>
