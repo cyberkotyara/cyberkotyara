@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Aleksey Sokolov!](https://github.com/sokolovcat) &nbsp;
+## Hi there 👋
 
 I am a cybersecurity enthusiast 👨🏻‍💻, currently pursuing a master's degree in computer science 🎓.
 
